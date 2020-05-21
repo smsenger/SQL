@@ -1,0 +1,23 @@
+Pen and Paper Exercises
+Association Examples
+
+pets and owners: many-to-many
+blog posts and authors: many-to-one
+teachers and students: many-to-many
+parents and children: many-to-many
+classes and objects: one-to-many
+projects and contributors: one-to-many
+
+
+
+Step 1:
+Determine the above relationships are one to many or many to many. Always ask the question in both directions. 
+Note if you need to clarify meaning of relationship. If it is a many to many, what is the name of the middle table 
+(join table)?
+
+Step 2:
+Take just one of the above examples, draw out on paper some sample data. And do an inner join and then a left outer 
+join by hand.
+
+Step 3:
+Get a partner and explain your answers to each other. See how your answers differ and why.
